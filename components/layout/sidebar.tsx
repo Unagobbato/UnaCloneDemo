@@ -23,7 +23,7 @@ const items = [
   { href: "/tickets", label: "Tickets", icon: TicketCheck, target: "tickets" },
   { href: "/profile", label: "Profile", icon: BriefcaseBusiness, target: "profile" },
   { href: "/settings", label: "Settings", icon: Settings2, target: "settings" },
-  { href: "/2026Eunice_Una_Gobbato_Resume.docx", label: "Resume", icon: FileText, target: "resume" },
+  { href: "/2026Eunice_Una_Gobbato_Resume.pdf", label: "Resume", icon: FileText, target: "resume" },
   { href: "/Eunice_CoverLetter.pdf", label: "Cover letter", icon: FileText, target: "cover-letter" },
 ];
 

@@ -49,7 +49,7 @@ export default function ProfilePage() {
 
           <div className="mt-5 space-y-3">
             <a
-              href="/2026Eunice_Una_Gobbato_Resume.docx"
+              href="/2026Eunice_Una_Gobbato_Resume.pdf"
               target="_blank"
               rel="noreferrer"
               className="flex items-center justify-between rounded-xl border border-[var(--line)] bg-[var(--surface-raised)] px-4 py-3 text-sm font-medium transition hover:bg-[var(--surface)]"
@@ -57,7 +57,7 @@ export default function ProfilePage() {
               <span>Resume</span>
               <span className="inline-flex items-center gap-2">
                 <Download className="size-4" />
-                DOCX
+                PDF
               </span>
             </a>
 
